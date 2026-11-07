@@ -34,7 +34,7 @@ instalowanie z lokalnych manifestów.
 1. Pobierz repozytorium:
 
    ```powershell
-   git clone https://github.com/CristianoNS/piece-of-cake.git
+   git clone https://github.com/krystiankrz/piece-of-cake.git
    cd piece-of-cake
    ```
 
