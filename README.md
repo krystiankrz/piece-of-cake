@@ -57,7 +57,7 @@ Aplikacja jest jednym samodzielnym plikiem z wbudowanym .NET (nie trzeba instalo
 poleceniem:
 
 ```powershell
-winget uninstall CristianoNS.PieceOfCake
+winget uninstall krystiankrz.PieceOfCake
 ```
 
 ## Pierwsze połączenie z Hue
