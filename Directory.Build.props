@@ -13,7 +13,7 @@
   <!-- Build-time analyzers only: they are not shipped with the app (PrivateAssets=all). -->
   <ItemGroup>
     <PackageReference Include="Roslynator.Analyzers" Version="5.0.1" PrivateAssets="all" />
-    <PackageReference Include="Meziantou.Analyzer" Version="3.0.320" PrivateAssets="all" />
+    <PackageReference Include="Meziantou.Analyzer" Version="3.0.324" PrivateAssets="all" />
   </ItemGroup>
 
 </Project>
